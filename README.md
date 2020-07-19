@@ -14,4 +14,4 @@ Exported files (split by activity) can be uploaded/imported to Garmin Connect we
 
 
 ## Tips and tricks
-If you have many input files, you can drag&drop them into [Filenames tool](https://zznidar.github.io/tools/Filenames/), copy output from there, paste it to Excel to create commands to be run (with the help of autofill), then jsut copy the created commands and paste them to cmd/ps, press Enter and it will go brrrrr. 
+If you have many input files, you can drag&drop them into [Filenames tool](https://zznidar.github.io/tools/Filenames/), copy output from there, paste it to Excel to create commands to be run (with the help of autofill), then jsut copy the created commands and paste them to cmd/ps, press Enter and it will go [brrr](https://brrr.money/). 
